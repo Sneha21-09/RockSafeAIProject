@@ -1,5 +1,5 @@
 from fastapi import FastAPI, Query, HTTPException
-from backend import api_utils
+import api_utils
 import numpy as np
 import pandas as pd
 import torch
