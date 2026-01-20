@@ -1,0 +1,13 @@
+# Ignore data
+data/
+
+# Ignore notebooks checkpoints
+.ipynb_checkpoints/
+
+# Ignore virtual environments
+anaconda_projects/
+virtual_documents/
+
+# Ignore temp notebooks
+Untitled*.ipynb
+
